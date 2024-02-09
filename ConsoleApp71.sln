@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp71", "ConsoleApp71\ConsoleApp71.csproj", "{7DE8D64E-6D86-4465-BE40-A5412905A4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turnir.DAL", "Turnir.DAL\Turnir.DAL.csproj", "{36072331-0753-42BB-9099-1AB53883DDF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE8D64E-6D86-4465-BE40-A5412905A4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE8D64E-6D86-4465-BE40-A5412905A4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE8D64E-6D86-4465-BE40-A5412905A4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE8D64E-6D86-4465-BE40-A5412905A4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36072331-0753-42BB-9099-1AB53883DDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36072331-0753-42BB-9099-1AB53883DDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36072331-0753-42BB-9099-1AB53883DDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36072331-0753-42BB-9099-1AB53883DDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FF3D0D-8B2E-4C70-BD76-98C3D9340BB6}
+	EndGlobalSection
+EndGlobal
