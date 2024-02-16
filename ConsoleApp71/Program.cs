@@ -265,7 +265,6 @@ namespace ConsoleApp71
                 context.Club.AddRange(club, club1, club2, club4);
                 context.SaveChanges();
 
-                // После сохранения изменений выполните запрос к базе данных
                 var presentTeam = context.Club.FirstOrDefault(t => t.NameTeam == "Chelsea");
 
                 if (presentTeam != null)
